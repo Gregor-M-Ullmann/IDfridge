@@ -33,3 +33,8 @@ button{
 	font-weight: bold;
 	width: 100%;
 }
+
+.black{
+	background-color: #202020;
+	color: white;
+}
